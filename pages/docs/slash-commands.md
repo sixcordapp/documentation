@@ -1,6 +1,6 @@
-# Structure
+# Slash Commands
 
-Just put all the Markdown files (`.md`, `.mdx`) under the `pages` directory. File system is the best way to organize your documentation:
+SixCord developers added slash commands to the bot. 
 
 ![](/demo.png)
 
