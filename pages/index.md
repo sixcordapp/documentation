@@ -1,7 +1,5 @@
-# Nextra
+# Introduction
 
-**Nextra** is a [Next.js](https://nextjs.org) based static site generator. 0 lines of code needed.  
+You've found the SixCord developer documentation! The next pages are dedicated to showing you all the ways that you can use SixCord API to make new things.
 
-It supports Markdown with React components ([MDX](/docs/mdx)), automatically generated [sidebar and anchor links](/docs/anchors), file-system based routing, built-in syntax highlighting, i18n and more.
-
-![](/demo.png)
+All of our [documentation is on GitHub](https://github.com/sixcordapp/documentation) so, if you would like to do corrections & improvements that's the link you should go.
